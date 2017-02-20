@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.3
 #encoding utf-8
 #
-# AKM4482
+# AK4482
 #
-DEF AKM4482 U 0 40 Y Y 1 F N
+DEF AK4482 U 0 40 Y Y 1 F N
 F0 "U" 0 -50 60 H V C CNN
-F1 "AKM4482" 0 50 60 H V C CNN
+F1 "AK4482" 0 50 60 H V C CNN
 F2 "Housings_SSOP:TSSOP-16_4.4x5mm_Pitch0.65mm" 50 -600 60 H I C CNN
 F3 "http://www.akm.com/akm/en/file/datasheet/AK4482VT.pdf" 250 -700 60 H I C CNN
 DRAW
