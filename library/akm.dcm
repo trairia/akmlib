@@ -6,4 +6,10 @@ K Dual DAC 2ch 24bit
 F http://www.akm.com/akm/en/file/datasheet/AK4482VT.pdf
 $ENDCMP
 #
+$CMP AK4490
+D Premium 32-bit 2ch DAC
+K DAC
+F http://www.akm.com/akm/en/file/datasheet/AK4490EQ.pdf
+$ENDCMP
+#
 #End Doc Library
